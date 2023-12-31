@@ -1,0 +1,6 @@
+streamlit
+csv
+sklearn
+joblib
+PIL
+base64
